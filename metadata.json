@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Portfolio Hub",
+  "description": "나를 가장 돋보이게 소개해주는 인터랙티브 포트폴리오 및 자기소개서 빌더",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
